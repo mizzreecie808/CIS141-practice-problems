@@ -2,3 +2,4 @@
 print("Hello, Cerise!")
 print("Hello, Class!")
 print("Hello, OC!")
+print("Hello, World!")
