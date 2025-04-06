@@ -7,8 +7,8 @@
   3. Use Git and GitHub to track code changes.
   4. Describe how these pieces (Python, Visual Studio Code, GitHub) fit together in the development workflow.
 #### Tasks
-  [ ] Skills Demonstration
-  [ ] Practice Problems
+ - [ ] Skills Demonstration
+ - [ ] Practice Problems
 
 ### Module 2
 TBA
