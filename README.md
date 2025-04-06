@@ -1,7 +1,7 @@
 # CIS141 Practice Problems
 ![oc](https://github.com/user-attachments/assets/4c29c253-7602-43ee-af53-9894d75e91e6)
 
-### Module 1
+### Module :one:
 ***
   1. Explain what an algorithm is.
   2. Write and run a simple Python script in Visual Studio Code.
@@ -11,6 +11,6 @@
  - [ ] Skills Demonstration
  - [ ] Practice Problems
 
-### Module 2
+### Module :two:
 ***
 TBA
