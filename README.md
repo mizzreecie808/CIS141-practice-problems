@@ -13,4 +13,12 @@
 
 ### Module :two:
 ***
-TBA
+  1. Identify basic data types
+  2. Write Python code that:
+    a. Assigns & re-assigns variables
+    b. Converts values between different data types
+    c. Applies operators to perform basic arithmetic calculations
+    d. Formats output
+#### Tasks
+ - [ ] Skills Demonstration
+ - [ ] Practice Problems
