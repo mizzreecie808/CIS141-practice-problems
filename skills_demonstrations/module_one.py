@@ -4,5 +4,4 @@ CIS141 Module #1 Skills Demonstration
 2) Save in appropriate folder
 3) Test to make sure it works and fix any errors that come up
 '''
-print("Here is my skills demonstration for Module #1")
-print("Thank you!")
+print("Here is Module #1 Skills Demonstration")
