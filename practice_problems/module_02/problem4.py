@@ -1,4 +1,5 @@
 '''
+Module #2 Problem #4
 Create a program that:
 Prompts the user for their birth year
 Displays a message that says
@@ -7,4 +8,6 @@ Displays a message that says
 
 birth_year = input("What is your birth year? ")
 age = 2025 - int(birth_year)
-print("You are", age, "years old")
+
+# f-string to print solution
+print(f"You are {age} years old.")
