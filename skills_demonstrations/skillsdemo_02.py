@@ -1,19 +1,18 @@
 #Module Two Skills Demonstration
 #Ask user for their name
-user_name = input("Hello, what is your name?") + ","
-#print(user_name)
+name = input("What is your name? ")
 
 #Ask user for total bill amount
-total_bill = int(input("What is the bill amount?"))
-#print(total_bill)
+bill = float(input("What is the bill amount? "))
 
 #Ask user for number of people splitting bill
-people = int(input("How many people in your party?"))
-#print(people)
+people = int(input("How many people in your party? "))
 
 #Calculate how much each person should pay
-split_amount = total_bill / people
-split_amount = "$" + str(split_amount)
+each = bill / people
+
+#Format dollar amount to 2 decimal places
+format_each = "$" + format(each, ".2f")
 
 #Display result with friendly message
-print(user_name, "each person in your party will pay", split_amount, "Thank you!")
+print(name, "each person in your party must pay", format_each, "Thank you very much!")
