@@ -7,9 +7,6 @@
 2. Write and run a simple Python script in Visual Studio Code.
 3. Use Git and GitHub to track code changes.
 4. Describe how these pieces (Python, Visual Studio Code, GitHub) fit together in the development workflow.
-#### Tasks
- - [X] Skills Demonstration
- - [X] Practice Problems
 
 ### Module :two:
 ***
@@ -19,6 +16,11 @@
     2. Converts values between different data types
     3. Applies operators to perform basic arithmetic calculations
     4. Formats output
-#### Tasks
- - [ ] Skills Demonstration
- - [ ] Practice Problems
+
+### Module :three:
+***
+1. Manipulate strings with basic string methods
+2. Concatenate strings with numeric data
+3. Use escape characters
+4. User string indexing and slicing techniques to manipulate strings
+5. Produce well-formatted string output to the console
