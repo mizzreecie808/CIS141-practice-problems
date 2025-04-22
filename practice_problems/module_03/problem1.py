@@ -1,15 +1,15 @@
 '''
 Problem #1
-Prompt the user for a word.
-Then, prompt the user for how many times they'd like that word repeated.
+Prompt user for a word.
+Prompt user for times they'd like that word repeated.
 Print the word the correct number of times.
 '''
 
 # prompt user for word
-word = input("Please type in a word of your choice.\t")
+word = input("Please type in a word of your choice. ")
 
 # prompt for times to repeat, must change type to int
-repeat = int(input("Now tell me how many times you want to repeat this word.\t"))
+repeat = int(input("How many times you want to repeat this word. "))
 
 # this will print all words joined on one line
 print(word * repeat)
