@@ -1,4 +1,5 @@
 # Concatenation, Repetition, and Mixing Types
+# https://www.youtube.com/watch?v=dbuHO9rxaaY
 
 # Concatentation (+)
 str1 = "Hello" + " " + "World"

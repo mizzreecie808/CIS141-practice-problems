@@ -1,4 +1,5 @@
 # Advanced String Concepts
+# https://www.youtube.com/watch?v=WipXWAPaTmY
 
 # Strings are Objects
 text = "hello world"

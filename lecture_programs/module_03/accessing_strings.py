@@ -1,4 +1,5 @@
 # Accessing & Slicing Strings & Comparison
+# https://www.youtube.com/watch?v=rAKkI-4Op1E
 
 # Indexing, including out of range errors
 str = "Olympic College Rangers"
