@@ -12,7 +12,8 @@ people = int(input("How many people in your party? "))
 each = bill / people
 
 #Format dollar amount to 2 decimal places
-each = "$" + format(each, ".2f")
+#each = "$" + format(each, ".2f")
 
 #Display result with friendly message
-print(name, "each person must pay", each, "Thank you very much!")
+print(f"{name} each person must pay ${each:.2f}. Thank you very much!")
+#print(name, "each person must pay", each, "Thank you very much!")
