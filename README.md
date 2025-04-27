@@ -8,7 +8,7 @@
 3. Use Git and GitHub to track code changes.
 4. Describe how these pieces (Python, Visual Studio Code, GitHub) fit together in the development workflow.
 
-### Module 2️⃣:
+### Module 2️⃣
 ***
 1. Identify basic data types
 2. Write Python code that:
@@ -17,7 +17,7 @@
     3. Applies operators to perform basic arithmetic calculations
     4. Formats output
 
-### Module 3️⃣:
+### Module 3️⃣
 ***
 1. Manipulate strings with basic string methods
 2. Concatenate strings with numeric data
@@ -25,7 +25,7 @@
 4. User string indexing and slicing techniques to manipulate strings
 5. Produce well-formatted string output to the console
 
-### Module 4️⃣:
+### Module 4️⃣
 ***
 1. Describe what booleans are and how they are used in Python
 2. Construct and interpret truth tables to evaluate complex Boolean expressions involving AND, OR and NOT
