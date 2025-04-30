@@ -6,9 +6,10 @@ Ask the user for the order total
 Print the total cost, including shipping.
 '''
 
+shipping = 5
 order_amount = float(input("What is the order amount? "))
 
 if order_amount > 50:
     print(f"Total cost is ${order_amount:.2f}, shipping is free.")
 else:
-    print(f"Total cost is ${order_amount + 5:.2f}, shipping costed $5.")
+    print(f"Total cost is ${order_amount + shipping:.2f}, shipping costed $5.")

@@ -6,9 +6,10 @@ If a sensor threshold is below the number 8,
 print "Headlights On"; otherwise, print "Headlights Off".
 '''
 
-threshold = 7
+sensor = 7
+threshold = 8
 
-if threshold < 8:
+if sensor < threshold:
     print("Headlights On")
 else:
     print("Headlights Off")

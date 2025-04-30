@@ -7,6 +7,7 @@ Print False, otherwise.
 '''
 
 balance = float(input("What is your bank balance? "))
+
 if balance < 100:
     print(True)
 else:
