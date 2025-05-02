@@ -31,3 +31,11 @@
 2. Construct and interpret truth tables to evaluate complex Boolean expressions involving AND, OR and NOT
 3. Use if, else and elif statements to create branching logic programs
 4. Demonstrate correction indentation in Python to define code blocks and avoid syntax errors
+
+### Module 5️⃣
+***
+1. Describe how loops automate repetitive tasks in Python.
+2. Implement while loops to meet specific iteration requirements.
+3. Construct for loops to iterate over strings and ranges effectively.
+4. Apply break and continue statements to manage loop flow.
+5. Identify and correct common errors in loop implementation.
