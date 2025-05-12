@@ -40,7 +40,7 @@
 4. Apply break and continue statements to manage loop flow.
 5. Identify and correct common errors in loop implementation.
 
-### Module :6:
+### Module 6️⃣
 ***
 1. Explain how to add, remove, and update elements in a list.
 2. Apply indexing and slicing to manipulate list elements.
