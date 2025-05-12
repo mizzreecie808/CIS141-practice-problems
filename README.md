@@ -39,3 +39,9 @@
 3. Construct for loops to iterate over strings and ranges effectively.
 4. Apply break and continue statements to manage loop flow.
 5. Identify and correct common errors in loop implementation.
+
+### Module :6:
+***
+1. Explain how to add, remove, and update elements in a list.
+2. Apply indexing and slicing to manipulate list elements.
+3. Create basic Python programs that utilize list operations for problem-solving.
