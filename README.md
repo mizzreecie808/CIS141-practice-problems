@@ -45,3 +45,10 @@
 1. Explain how to add, remove, and update elements in a list.
 2. Apply indexing and slicing to manipulate list elements.
 3. Create basic Python programs that utilize list operations for problem-solving.
+
+### Module 7️⃣
+***
+1. Define Python functions with correct syntax, parameters, and return values.
+2. Explain variable scope and argument passing mechanisms.
+3. Differentiate positional, keyword, and default arguments.
+4. Define Python functions with multiple return values
