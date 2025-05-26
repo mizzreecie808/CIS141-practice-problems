@@ -52,3 +52,10 @@
 2. Explain variable scope and argument passing mechanisms.
 3. Differentiate positional, keyword, and default arguments.
 4. Define Python functions with multiple return values
+
+### Module 8️⃣
+1. Describe the purpose and benefits of using modules in Python.
+2. Demonstrate how to read from and write to text files using Python.
+3. Implement loops to process text file data efficiently.
+4. Construct and manipulate dictionaries to store and retrieve key-value data.
+5. Integrate modules, text files, and dictionaries to solve real-world programming problems.
