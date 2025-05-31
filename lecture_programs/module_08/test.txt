@@ -1,2 +1,31 @@
 This Text is going to out file
 Look at it and see!
+
+students = [
+    ["name", "age", "grade"],
+    ["Alice", 14, "A"],
+    ["Bob", 13, "B"],
+    ["Charlie", 15, "C"],
+    ["Daisy", 14, "B"],
+    ["Ethan", 13, "A"],
+    ["Fiona", 15, "B"],
+    ["George", 14, "C"],
+    ["Hannah", 13, "A"],
+    ["Ian", 15, "B"],
+    ["Jade", 14, "C"],
+    ["Kyle", 13, "A"],
+    ["Luna", 15, "B"],
+    ["Mason", 14, "C"],
+    ["Nina", 13, "B"],
+    ["Oscar", 15, "A"],
+    ["Penny", 14, "B"],
+    ["Quinn", 13, "C"],
+    ["Ruby", 15, "A"],
+    ["Sam", 14, "B"],
+    ["Tina", 13, "C"],
+    ["Umar", 15, "A"],
+    ["Vera", 14, "B"],
+    ["Will", 13, "C"],
+    ["Xena", 15, "B"],
+    ["Zane", 14, "A"]
+]

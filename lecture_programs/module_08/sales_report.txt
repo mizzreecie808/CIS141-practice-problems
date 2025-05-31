@@ -1,0 +1,16 @@
+Sales Report Generated: 2025-05-28 11:18:50
+========================================
+Total Sales Per Item:
+notebook         22 units
+pen              47 units
+eraser            6 units
+marker           19 units
+
+Average Sales Per Item:
+notebook        5.5 units
+pen           11.75 units
+eraser          1.5 units
+marker         4.75 units
+
+Best Seller:
+pen with 47 units sold
