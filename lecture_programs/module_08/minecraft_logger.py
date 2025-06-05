@@ -1,16 +1,20 @@
 # Module 08 Lecture Problems
 # 06: Minecrat Block Logger
+# Torch at (10, 66)
+# Cobblestone at (13, 64)
 file_name = "blocks.txt"
+
 with open(file_name, "a") as file:
-    new_club = input("What is the name of the club you joined? ")
-    file.write(new_club + "\n")
+    block_type = input("What block did you place?\t")
+    location = input("Where? 'X:50 Y:100':\t")
+    coords = location.split(" ")
+    print(coords)
 
-count = 1
+    block_placed = f"{block_type.capitalize()} at ({coords[0]}, {coords[1]})"
+    file.write(block_placed + "\n")
+
 with open(file_name, "r") as file:
-    print("List of College Clubs:")
-    print("=" * 22)
+    print(f"{'Minecraft Block Log':^30}")
+    print("🟩⛏️🟫" * 3)
     for line in file:
-        print(f"{count}: {line.strip()}")
-        count += 1
-
-
+        print(line.strip())
